@@ -1,0 +1,26 @@
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Smart Assist.exe
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Smart Assist.deps.json
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Smart Assist.runtimeconfig.json
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Smart Assist.runtimeconfig.dev.json
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Smart Assist.dll
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Smart Assist.pdb
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.AssemblyInfoInputs.cache
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.AssemblyInfo.cs
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.csproj.CoreCompileInputs.cache
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.dll
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.pdb
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.genruntimeconfig.cache
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.csproj.GenerateResource.cache
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart_Assist.Startscreen.resources
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart_Assist.Dash.resources
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Microsoft.Web.WebView2.Core.dll
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.csproj.CopyComplete
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart Assist.csprojAssemblyReference.cache
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart_Assist.remotecantopen.resources
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart_Assist.AboutBox1.resources
+C:\Users\Bcat\Documents\GitHub\smart-assist\Files\Smart Assist\obj\Debug\netcoreapp3.1\Smart_Assist.Form2.resources

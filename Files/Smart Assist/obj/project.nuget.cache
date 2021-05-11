@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4nvuWJ/xrRpHvVrO0sK/DtO/tGjNuHI+PEaCXViAU3CNCGuZ9rHUELxn4RSr0vnlm3ZfEMkePetNuFonhquyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bcat\\Documents\\GitHub\\smart-assist\\Files\\Smart Assist\\Smart Assist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bcat\\.nuget\\packages\\microsoft.web.webview2\\1.0.818.41\\microsoft.web.webview2.1.0.818.41.nupkg.sha512"
+  ],
+  "logs": []
+}

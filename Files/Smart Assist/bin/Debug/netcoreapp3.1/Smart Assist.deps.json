@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Smart Assist/0.0.1": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.818.41"
+        },
+        "runtime": {
+          "Smart Assist.dll": {}
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.818.41": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.818.41",
+            "fileVersion": "1.0.818.41"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.818.41",
+            "fileVersion": "1.0.818.41"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.818.41",
+            "fileVersion": "1.0.818.41"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.818.41"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.818.41"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.818.41"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smart Assist/0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.818.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fOEZCzNHDtWuNGgOWaA7lD0UkiFXJGhWXEBwqsw9sMrx4QXl8SqNX7qVNYdJrbGvpf3B67CGO3WuUI2z3Yai5w==",
+      "path": "microsoft.web.webview2/1.0.818.41",
+      "hashPath": "microsoft.web.webview2.1.0.818.41.nupkg.sha512"
+    }
+  }
+}

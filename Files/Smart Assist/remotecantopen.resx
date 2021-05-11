@@ -1,0 +1,69 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Windows 7 protects processes by marking their integrity levels. Integrity levels are measurements of trust.
+A "high" integrity application is one that performs tasks that modify system data, such as a disk partitioning application, while a "low" integrity 
+application is one that performs tasks that could potentially compromise the operating system, such as a Web browser.
+Applications with lower integrity levels cannot modify data in applications with higher integrity levels.</value>
+  </data>
+  <data name="webView22.Source" xml:space="preserve">
+    <value>data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEACgoKCgrKC0yMi0/RDxEP11VTk5VXYxkbGRsZIzVhZuFhZuF1bzkua255Lz//+vr//////////////////////8BKCgoKCsoLTIyLT9EPEQ/XVVOTlVdjGRsZGxkjNWFm4WFm4XVvOS5rbnkvP//6+v////////////////////////CABEIAKAAoAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAAAQIDBQT/2gAIAQEAAAAA2QAAAAAAjFRAAACSLlCZFDBjBQoq71FypG22xj4aY6MoOdDBtzGPgpjpSg50PPz5OU+/QHwUx0pQc6Hn5+lcckNe8z6VpSg50PPz9zofHwafUcFMdOUHKl5+f3WnObMzPqjpyg3U8/PuR16VoZ9K05Qbqefn7l2Ote8M6qOpKDK3n5+50U5NuyzOqjqSgyt5+fudD4OPv7jNrjqSg1B1Vdc2c76TNqWpKAotttsYZla1JVEIzbGMZzcgtWXOq60CBAJEdazhVaBAgBJLafNxoQgQAJd/YEKwAAACyZ//xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oACgICEAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/EADIQAAEDAQUHAgUEAwAAAAAAAAEAAgMQBBESMlIUMTNDUXKBEyAhMDRhkUFicYIiQFP/2gAIAQEAAT8A/wBUuN9wWG/f8Vgb0CwN6BYG9AsDegWFvQLA3oFgb0CwN6BYW9AsDegWBvQLA3oFgb0CwN6BEAbkyT44XeDQm4EptThG9Ym6VjGlY/sFi+yxK9X08K4K5OeAi9OcmHExp6hSZHIFXpvxKJvJPzJjdIVeiVDwmdqkyOQozNUkDeQFjZrb+QsTNbfyFiZrb+Qg5upv5Hun4ngUKg4TO1SZHIUZmrb+V7Wkg3gkKC1G8Nk/Psn4ngUKg4LO1SZHIUZmrb+VSCyRPiY8l15C2GHq9bFFqcpoXQuAJvBpZ344mms/E8UKg4TO1SZHIUZmrb+VSy/TxfxW25GdyCsnB/saz8TwKFQcJnapMjkKM31t/KpFbDHG1mBbef8AkFtz9DU+R8jsTimNL3Brd5TGBjGtH6Cs2fwKFQcJnapMjkKNrb+VRsMzgCIyQUWuabnNIQUEDZeZ4UcTIhc0eybP4FCoOCztUmQoUFbfyqWX6eL+E5jXtLXC8KWIxPLSmktIINxCgmErPuPZNn8UKg4UfapMjkPbb+VSy/TxdtJ4RKz9w3UikMbw5AggEbjT9Cps/ihUHBj7VJkch7bfyqWX6eLtra4eYP7IKyS8s+KHcVNn8UKg4MfapMjkKGssDJsOO/4LYYP3JjAxgaNwqQCCDuK2SH9yFliGqh3FTZ/FCoODH2qTI5Ch+Y43AqQ3vNCoODH2qTI5Xq9FyDwsQWILGFjC9QL1Gr1Gr1Gr1Gr1GqWfT7IODH2qThuV6JRPzyoODH2pwvaQr0Sj8+4uIaN5TRc0Ck0RzNRKvV6vV6vV6vV6vV6vV6vpvNwF5Vngwf5uzex0bHbwtni0rZ4tK2eLStni0rZ4tK2eLStni0rZ4dK2eHQtmh0LZodC2eHSFs0OkLZodATY2N3Nr//EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8ASf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8ASf/Z</value>
+  </data>
+</root>
