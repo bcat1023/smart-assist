@@ -9,7 +9,7 @@
             <nav>
                 <ui class="navli"><a class="navlink" onclick="easteregg()"></a></ui>
                 <ui class="navli"><a class="navlink" href="/">Home</a></ui>
-                <ui class="navli"><a class="navlink" href="/download.html">Download</a></ui>
+                <ui class="navli"><a class="navlink" onclick="cantred()" >Download</a></ui>
             </nav>
         </div>
 
@@ -17,12 +17,16 @@
             <!--content-->
             <div class="header"><h1 class="header">Download Smart-Assist</h1></div>
             <div class="header"><h2>For Free!</h2></div>
-            <button class="button" onclick="popup1()">Coming Soon</button>
+            <button class="button" onclick="cantred()">Coming Soon</button>
             <div class="header"><a style="text-decoration: none;" href="https://bthecat.netlify.app/">a bthecat product</div>
         </div>
 
         <div class="scripts">
             <script>
+                function cantred() {
+                    alert(`It says coming soon, That means its not done`);
+                }
+
                 function easteregg() {
                     alert(`Ello, its a easter egg!. Click here to win a mill dolles and MONEY (there is no money, its a joke to the online scams where you would "win" a iPod nano and get scammed)`)
                 }
