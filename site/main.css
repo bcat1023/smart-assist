@@ -88,8 +88,8 @@ h1 {
     transition: .2s;
     margin-bottom: 15px;
     border-radius: 5px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .button:hover {
