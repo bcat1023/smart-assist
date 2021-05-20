@@ -29,5 +29,10 @@ namespace Smart_Assist
         {
             this.Close();
         }
+
+        private void remotecantopen_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

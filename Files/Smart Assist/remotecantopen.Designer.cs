@@ -269,7 +269,8 @@ namespace Smart_Assist
             this.Name = "remotecantopen";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Remote-Assist Can\'t Open Quick Assist";
+            this.Text = "Remote-Assist Can\'t Open Quick Assist | Smart-Assist";
+            this.Load += new System.EventHandler(this.remotecantopen_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();

@@ -140,7 +140,7 @@ namespace Smart_Assist
             this.MaximizeBox = false;
             this.Name = "Dash";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Home";
+            this.Text = "Dash | Smart-Assist";
             this.Load += new System.EventHandler(this.Dash_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);

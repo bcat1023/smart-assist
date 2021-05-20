@@ -25,5 +25,10 @@ namespace Smart_Assist
         {
             System.Diagnostics.Process.Start("");
         }
+
+        private void Trouble_Shooters_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
